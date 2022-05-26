@@ -227,7 +227,7 @@
     background-repeat: no-repeat;
   }
   .currency-table--date {
-    width: 190px;
+    min-width: 70px;
     height: 31px;
     margin: 0 auto;
     margin-top: 15px;
@@ -236,7 +236,7 @@
     border-radius: 8px;
   }
   .commissions-table--date {
-    width: 190px;
+    min-width: 70px;
     height: 31px;
     margin: 0 auto;
     margin-top: 15px;
