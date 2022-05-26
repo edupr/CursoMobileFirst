@@ -456,7 +456,7 @@
     padding: 5px 0;
     font-size: 5.3rem;
     font-weight: bold;
-    line-height: 6.3rem;
+    line-height: 5.3rem;
     color: black;
 }
 
@@ -466,4 +466,9 @@
     position: relative;
     top: -30px;
     left: 8px;
+}
+
+.plan-card--saving {
+    color: #757575;
+    font-size: 1.2rem;
 }
