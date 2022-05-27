@@ -140,7 +140,6 @@
     display: flex;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
-    overscroll-snap-type: x proximity;
 }
 
   .main-currency-table,
