@@ -242,10 +242,12 @@
     border-radius: 8px;
   }
   .commissions-table--date {
-    min-width: 70px;
+    max-width: 190px;
+    margin: 1.6rem auto 0;
+ /*   min-width: 70px;
     height: 31px;
     margin: 0 auto;
-    margin-top: 15px;
+    margin-top: 15px;*/
     padding: 8px;
     background-color: var(--soft-blue);
     border-radius: 8px;
