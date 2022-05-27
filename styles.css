@@ -135,6 +135,14 @@
     line-height: 1.6rem;
     color: #757575;
   }
+
+.main-tables-container {
+    display: flex;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    overscroll-snap-type: x proximity;
+}
+
   .main-currency-table,
   .main-commissions-table {
     width: 70%;
