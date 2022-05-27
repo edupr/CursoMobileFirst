@@ -136,11 +136,7 @@
     color: #757575;
   }
 
-.main-tables-container {
-    display: flex;
-    overflow-x: scroll;
-    overscroll-behavior-x: contain;
-}
+
 
   .main-currency-table,
   .main-commissions-table {
